@@ -1,5 +1,7 @@
 # Solver for Devvortex
 
+For my opinion to privilage escalation to root is a bit guessy because the combination can be uppercase or lowercase and use symbol, so it will be a long time to bruteforce it if the password is strong
+
 ## Recon
 
 ### Check library/framework/cms version that the server use
