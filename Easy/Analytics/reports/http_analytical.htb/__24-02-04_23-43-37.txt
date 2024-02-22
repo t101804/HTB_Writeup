@@ -1,0 +1,7 @@
+# Dirsearch started Sun Feb  4 23:46:03 2024 as: /usr/share/dirsearch/dirsearch.py -u http://analytical.htb/
+
+301   178B   http://analytical.htb/js    -> REDIRECTS TO: http://analytical.htb/js/
+301   178B   http://analytical.htb/css    -> REDIRECTS TO: http://analytical.htb/css/
+301   178B   http://analytical.htb/images    -> REDIRECTS TO: http://analytical.htb/images/
+403   564B   http://analytical.htb/images/
+403   564B   http://analytical.htb/js/
