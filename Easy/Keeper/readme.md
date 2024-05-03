@@ -7,7 +7,7 @@
 Username:lnorgaard
 Password: Welcome2023!
 
-## Login ssh and get the dmp and kdbx trough zip
+## Login ssh and get the dmp and kdbx through zip
 
 unzip and download loaclly with server python
 
